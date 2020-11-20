@@ -12,6 +12,10 @@ Visualización de datos - ITBA
 
 3. **19-11-2020** Tercer Clase 
 
+Uilizamos https://raw.githubusercontent.com/basilioclaudio/infovis/gh-pages/w46_data.csv para graficar usando https://rawgraphs.io/, 
+
 https://basilioclaudio.github.io/infovis/mom_2020_w46_rawgraph.html
+
+Utilizamos para graficar usando 
 
 https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
