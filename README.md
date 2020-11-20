@@ -10,3 +10,6 @@ Visualización de datos - ITBA
 * https://guides.github.com/features/mastering-markdown/
 * https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
+3. **19-11-2020** Tercer Clase 
+
+https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
