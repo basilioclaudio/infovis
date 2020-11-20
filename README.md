@@ -13,4 +13,5 @@ Visualización de datos - ITBA
 3. **19-11-2020** Tercer Clase 
 
 https://basilioclaudio.github.io/infovis/mom_2020_w46_rawgraph.html
+
 https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
