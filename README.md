@@ -23,3 +23,9 @@ https://basilioclaudio.github.io/infovis/mom_2020_w46_rawgraph.html
 Utilizamos https://raw.githubusercontent.com/basilioclaudio/infovis/gh-pages/2020w46.tsv para graficar usando https://app.flourish.studio/projects y realizamos 
 
 https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
+
+4. **21-11-2020** Se realizo repaso de que datos va a trabajar cada uno, y se estudio como realizar graficas usando VEGA-LITE
+ * https://docs.google.com/document/d/1b1yOZxxVrzqqr-3W3v1HnfIYuDt05ZnxDUhtPnlvzbE/edit
+ * realizamos el siguiente Gráfico-
+  https://basilioclaudio.github.io/infovis/scatterplot.html
+  
