@@ -26,6 +26,7 @@ https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
 
 4. **21-11-2020** Se realizo repaso de que datos va a trabajar cada uno, y se estudio como realizar graficas usando VEGA-LITE
  * https://docs.google.com/document/d/1b1yOZxxVrzqqr-3W3v1HnfIYuDt05ZnxDUhtPnlvzbE/edit
- * realizamos el siguiente Gráfico-
-  https://basilioclaudio.github.io/infovis/scatterplot.html
+   realizamos el siguiente Gráfico- https://basilioclaudio.github.io/infovis/scatterplot.html
   
+* Utilizando Colab, y con el mismo data set rehicimos el gráfico, usando pandas y altair: https://colab.research.google.com/drive/1br-dpTRvNMYZooDSslZV7yDMuxHTeHFb?usp=sharing
+* Utilizando obserbable y con el mismo data set rehicimos el gráfico: https://observablehq.com/@basilioclaudio/testing-observable-don-la-gente-de-chaco-sabado
