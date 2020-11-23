@@ -29,4 +29,4 @@ https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
    realizamos el siguiente Gráfico- https://basilioclaudio.github.io/infovis/scatterplot.html
   
 * Utilizando Colab, y con el mismo data set rehicimos el gráfico, usando pandas y altair: https://colab.research.google.com/drive/1br-dpTRvNMYZooDSslZV7yDMuxHTeHFb?usp=sharing
-* Utilizando obserbable y con el mismo data set rehicimos el gráfico: https://observablehq.com/@basilioclaudio/testing-observable-don-la-gente-de-chaco-sabado
+* Utilizando obserbable y con el mismo data set rehicimos el gráfico: https://observablehq.com/@basilioclaudio
