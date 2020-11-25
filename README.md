@@ -30,3 +30,12 @@ https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
   
 * Utilizando Colab, y con el mismo data set rehicimos el gráfico, usando pandas y altair: https://colab.research.google.com/drive/1br-dpTRvNMYZooDSslZV7yDMuxHTeHFb?usp=sharing
 * Utilizando obserbable y con el mismo data set rehicimos el gráfico: https://observablehq.com/@basilioclaudio
+
+5. **23-11-2020**
+
+6. **Páctico Final**
+    # Trabaje con los datos de Consumo de Agua y Energía de mi Hogar, registrando diariamiente entre las 08:00 y 09:00.
+    Ser de datos https://raw.githubusercontent.com/basilioclaudio/infovis/gh-pages/consumoaguaenergia.csv
+    
+    Gráfico en 
+    
