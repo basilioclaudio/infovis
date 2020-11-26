@@ -35,7 +35,7 @@ https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
 
 6. **Páctico Final**
     # Trabaje con los datos de Consumo de Agua y Energía de mi Hogar, registrando diariamiente entre las 08:00 y 09:00.
-    Ser de datos https://raw.githubusercontent.com/basilioclaudio/infovis/gh-pages/consumoaguaenergia.csv
+    Set de datos https://raw.githubusercontent.com/basilioclaudio/infovis/gh-pages/consumoaguaenergia.csv
     
     a. Gráfico en Tableau: https://basilioclaudio.github.io/infovis/tpfinaltableau.html
     
