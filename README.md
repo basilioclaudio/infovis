@@ -39,5 +39,5 @@ https://basilioclaudio.github.io/infovis/2020_w46_flourish.html
     
     a. Tableau: https://basilioclaudio.github.io/infovis/tpfinaltableau.html
     b. Observable: https://observablehq.com/@basilioclaudio/practico-final
-    c. flourish: 
+    c. flourish: https://basilioclaudio.github.io/infovis/tpfinalflourish.html
     
